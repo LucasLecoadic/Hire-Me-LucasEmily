@@ -1,0 +1,27 @@
+
+
+h1{
+ font-family: 'Montserrat', sans-serif;
+  text-align:center;
+  font-size:35px;
+  color:black;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+}
+li{
+    color:black;
+}
+body{
+    background-color:lightblue;
+}
+img{
+    width:400px;
+}
